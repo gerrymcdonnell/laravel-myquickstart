@@ -32,7 +32,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel-photoalbum
+                    geds laravel-quickstart
                 </div>
 
                 <div class="links">
